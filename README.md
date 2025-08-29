@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Jahnvi Pathania</h1>
 <p align="center" display="block"><img src="https://readme-typing-svg.herokuapp.com/?size=30&duration=4001&color=9745F5&vCenter=true&center=true&width=460&lines=📊+Aspiring+Data+Scientist"</p> 
 <h3 align="center"></h3>
-<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" align="right" alt="Coding" width="400" >
+<img src="https://user-images.githubusercontent.com/74038190/226127913-88de86d3-8437-45b9-a3b6-e746b47f655a.gif" align="right" alt="Coding" width="400" >
 
 
 <!--
