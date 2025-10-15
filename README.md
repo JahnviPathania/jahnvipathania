@@ -34,10 +34,7 @@
 
 ---
 
-### 🔥 Github stats
-![](https://github-readme-stats.vercel.app/api?username=jahnvipathania&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-### 🔥 Streak
-![](https://nirzak-streak-stats.vercel.app/?user=jahnvipathania&theme=dark&hide_border=false)<br/>
+
 ### 📚 Language Preferences
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jahnvipathania&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
